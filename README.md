@@ -1,8 +1,3 @@
-以下是基于你提供的脚本文件内容所撰写的详细 `README.md`，其中涵盖了安装 CUDA、环境激活、PyTorch 检测等相关操作的说明。
-
----
-
-```markdown
 # CUDA 安装与环境检测工具
 
 本项目提供了一系列批处理（`.bat`）脚本和 Python 脚本，帮助用户在 Windows 系统上快速安装 CUDA、激活 Python 环境，并检测 PyTorch 与 CUDA 兼容性。
