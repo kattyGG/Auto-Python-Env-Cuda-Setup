@@ -1,8 +1,8 @@
 # CUDA 安装与环境检测工具
 
 本项目提供了一系列批处理（`.bat`）脚本和 Python 脚本，帮助用户在 Windows 系统上快速安装 CUDA、激活 Python 环境，并检测 PyTorch 与 CUDA 兼容性。
-cuda--11.8 pytorch 2.0.1+cu118 cuda is True 这里可以自行修改脚本，安装不用版本适应不同的AI程式。
-使用了 代理 PROXY_URL=127.0.0.1:11601 可自行修改
+1. cuda--11.8 pytorch 2.0.1+cu118 cuda is True 这里可以自行修改脚本，安装不用版本适应不同的AI程式。
+2. 使用了 代理 PROXY_URL=127.0.0.1:11601 可自行修改
 
 ## 📂 项目文件介绍
 
